@@ -1,0 +1,429 @@
+.websiteEventTicketingRootRoot {
+  width: 1447px;
+  gap: 78px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.flexColumn {
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.silverFlexColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #c4c4c4;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal, normal;
+  background-image: url(https://file.rendit.io/n/52HGknIKuQLxC66jGCgf.png),
+    linear-gradient(rgba(196, 196, 196, 1), rgba(196, 196, 196, 1));
+}
+.blackFlexRow {
+  height: 44.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 7.43px 25.1px 171px 178px;
+  background-color: rgba(0, 0, 0, 0.9);
+  background-image: linear-gradient(119deg, #ed4690 0%, #5522cc 97%);
+}
+.flexRow {
+  height: 43.8px;
+  gap: 9.29px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  align-items: flex-start;
+}
+.ticket {
+  width: 53px;
+  height: 33.2px;
+}
+.eventick1 {
+  width: 169px;
+  height: 33.7px;
+  align-self: flex-end;
+  color: #ffffff;
+  font-size: 28.5px;
+  font-weight: 700;
+  font-family: Proxima Nova;
+}
+.flexRow1 {
+  gap: 9.23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.flexRow2 {
+  width: 258px;
+  position: relative;
+  gap: 91.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: stretch;
+  align-items: center;
+  padding: 14.7px 0px 12.1px 0px;
+}
+.text1 {
+  width: 77.4px;
+  height: 12.8px;
+  position: relative;
+  align-self: flex-start;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: DM Sans;
+}
+.text2 {
+  width: 91.4px;
+  height: 15px;
+  left: 77.4px;
+  top: 14.7px;
+  position: absolute;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: DM Sans;
+}
+.text3 {
+  width: 89.4px;
+  height: 17.1px;
+  position: relative;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: DM Sans;
+}
+.text4 {
+  width: 91.5px;
+  height: 23.9px;
+  gap: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8.5px 18.5px;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: DM Sans;
+  white-space: nowrap;
+  border-width: 1.5px;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #ffffff;
+}
+.searchBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0px 0px 0px 177px;
+}
+.midnightBlueFlexColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 30px 48px 45px 48px;
+  border-radius: 20px;
+  background-color: #242565;
+  box-shadow: 0px 10px 50px 0px rgba(61, 55, 241, 0.25);
+}
+.flexColumn6 {
+  gap: 3px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: stretch;
+}
+.image2 {
+  width: 12px;
+  height: 7px;
+  align-self: flex-end;
+  margin: 0px 0px 6px 0px;
+}
+.line2 {
+  height: 1px;
+}
+.flexColumn7 {
+  gap: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 0px 7px 0px 0px;
+}
+.upcomingEvents1 {
+  width: 1091px;
+  height: 980px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  margin: 0px 172px 0px 0px;
+}
+.text11 {
+  align-self: flex-start;
+  margin: 0px 0px 45px 0px;
+  color: #242565;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: Proxima Nova;
+  white-space: nowrap;
+}
+.flexRow5 {
+  width: 1086px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 16px 0px;
+}
+.flexRow6 {
+  width: 1086px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 48px 0px;
+}
+.flexColumn38 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0px 452px 0px 0px;
+}
+.text26 {
+  height: 23px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 16.5px 43.5px 17.5px 43.5px;
+  color: #3d37f1;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: DM Sans;
+  white-space: nowrap;
+  border-width: 1.5px;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #3d37f1;
+  box-shadow: 0px 10px 50px 0px rgba(61, 55, 241, 0.25);
+}
+.createEvents1 {
+  width: 520px;
+  height: 303px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0px 820px 0px 100px;
+}
+.periwinkleFlexColumn {
+  height: 252px;
+  left: 0px;
+  top: 51px;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 327px 0px 696px;
+  background-color: #eee1ff;
+}
+.flexColumn40 {
+  width: 417px;
+  gap: 21px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.flexColumn41 {
+  width: 382px;
+  height: 101px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-self: stretch;
+  padding: 0px 35.2px 0px 0px;
+}
+.makeYourOwnEvent {
+  width: 417px;
+  height: 101px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  font-size: 34px;
+  font-weight: 700;
+  font-family: DM Sans;
+  white-space: pre-wrap;
+}
+.paragraph10 {
+  position: relative;
+  color: #272727;
+  font-size: 18px;
+  font-family: DM Sans;
+  white-space: pre-wrap;
+}
+.razzmatazzText {
+  height: 23px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 18px 89px 19px 90px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: DM Sans;
+  white-space: nowrap;
+  border-radius: 50px;
+  background-color: #f5167e;
+  box-shadow: 0px 10px 50px 0px rgba(61, 55, 241, 0.25);
+}
+.image1 {
+  height: 268px;
+  position: relative;
+}
+.footer1 {
+  width: 1431px;
+  height: 313px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0px 9px 0px 0px;
+}
+.royalPurpleRectangle {
+  width: 1440px;
+  height: 313px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background-color: #09065e;
+}
+.footer {
+  position: relative;
+  gap: 69px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.flexRow7 {
+  height: 148px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 0px 137px;
+}
+.nftMarketplace {
+  width: 386px;
+  gap: 33.4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 0px 130px 0px 0px;
+}
+.eventick3 {
+  width: 127px;
+  height: 1.62px;
+  color: #ffffff;
+  font-size: 28.5px;
+  font-weight: 700;
+  font-family: Proxima Nova;
+}
+.paragraph11 {
+  height: 4.09px;
+  align-self: stretch;
+  color: #f3f3f3;
+  font-size: 14px;
+  font-family: DM Sans;
+  line-height: 22.4px;
+}
+.marketplace {
+  width: 142px;
+  gap: 6.19px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: flex-end;
+  align-items: flex-start;
+  margin: 0px 167px 0px 0px;
+}
+.text27 {
+  width: 117px;
+  height: 24px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: DM Sans;
+  text-transform: capitalize;
+}
+.paragraph12 {
+  height: 117px;
+  align-self: stretch;
+  color: #f3f3f3;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: DM Sans;
+  line-height: 28px;
+}
+.myAccount {
+  gap: 4.17px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text28 {
+  width: 116px;
+  height: 23.8px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: DM Sans;
+  text-transform: capitalize;
+}
+.text29 {
+  width: 116px;
+  height: 119px;
+  align-self: flex-start;
+  color: #f3f3f3;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: DM Sans;
+  line-height: 28px;
+}
+.copyright1 {
+  gap: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.copyright {
+  width: 243px;
+  height: 1px;
+  align-self: flex-end;
+  margin: 0px 590px 0px 0px;
+  color: #fdfdfd;
+  font-size: 14px;
+  font-family: DM Sans;
+  line-height: 22.4px;
+}
+.line3 {
+  width: 1431px;
+  height: 1px;
+}
